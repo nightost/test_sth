@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>Document</title>
+	<style>
+		body{
+			perspective:1000;
+			-webkit-perspective:1000;
+			-moz-perspective:1000;
+			-o-perspective:1000;
+		}
+		.beef{
+			/*display: inline-block;*/
+			font-size: 40px;
+			transform:rotateY(0deg);
+			-webkit-transform:rotateY(0deg);
+			-moz-transform:rotateY(0deg);
+			-o-transform:rotateY(0deg);
+			
+			transform-style: preserve-3d;
+			-webkit-transform-style: preserve-3d;
+			-moz-transform-style: preserve-3d;
+
+			
+
+			transition:all 1s;
+			-webkit-transition:all 1s;
+			-moz-transition:all 1s;
+			-o-transition:all 1s;
+		}
+		.hover{
+			/*transform:rotateY(270deg);
+			-webkit-transform:rotateY(270deg);
+			-moz-transform:rotateY(270deg);
+			-o-transform:rotateY(270deg);*/
+			transform:rotateX(360deg);
+			-webkit-transform:rotateX(360deg);
+			-moz-transform:rotateX(360deg);
+			-o-transform:rotateX(360deg);
+		}
+	</style>
+	<script>
+		window.onload=function(){
+			var _beef=document.getElementById("beef");
+			_beef.addEventListener("click",function(){
+				var _classname=this.className;
+				if(/hover/.test(_classname)){
+					this.className="beef";
+				}
+				else{
+					this.className="beef hover";
+				}
+			});
+		}
+	</script>
+</head>
+<body>
+	<img class="beef" id="beef" src="black_beef.png" alt="" />
+
+	<!-- <span class="beef" id="beef">好傻哈哈哈哈</span> -->
+</body>
+</html>

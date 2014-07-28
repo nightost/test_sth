@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="zepto.min.js"></script>
+	<script src="cookie.js"></script>
+	//cookie.js
+	<script>
+		$(function(){
+			//初始页面加载前面的数据
+			$("#cookie span").text(cookie.get("score")||"暂无");
+			$("#localstorage span").text(getLocalstorage("score")||"暂无");
+			var _stopBtn=$("#stop");
+			var _refresh=$("#refresh");
+			var _textBox=$("#time-text");
+			var _timer;
+			var _num=0;
+			_timer=setInterval(function(){
+				_num++;
+				_textBox.text(_num);
+			},100);
+			_stopBtn.bind("touchstart",function(){
+				clearInterval(_timer);
+				cookie.set("score",_num);
+				setLocalstorage("score",_num);
+			});
+			_refresh.bind("touchstart",function(){
+				cookie.set("score",_num);
+				setLocalstorage("score",_num);
+				window.location.reload();
+			});
+		});
+		//set localstorage
+		//
+		function setLocalstorage(key,value){
+			if(window.localStorage){
+		 		localStorage.setItem(key,value);
+			}
+			else{
+				alert("不支持localstroage");
+			}
+		}
+		//get localstorage
+		//
+		function getLocalstorage(key){
+			if(window.localStorage){
+		 		return localStorage.getItem(key);
+			}
+			else{
+				alert("不支持localstroage");
+			}
+		}
+	</script>
+</head>
+<body>
+	<div id="time-text">0</div>
+	<input type="button" value="STOP" id="stop" />
+	<input type="button" value="REFRESH" id="refresh" />
+	<br />
+	<div id="localstorage">保存在localstorage里面的分数:<span></span></div>
+	<div id="cookie">保存在cookie里面的分数:<span></span></div>
+</body>
+</html>

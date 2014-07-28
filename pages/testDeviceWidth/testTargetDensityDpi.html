@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<meta name="viewport" content="width=768" />
+</head>
+<style>
+	body,img{
+		padding: 0;
+		margin: 0;
+	}
+	img{
+		border: 0 none;
+		outline: none; 
+	}
+	#deviceRatio{
+		transition:all 2s ease-in-out;
+		-webkit-transition:all 2s ease-in-out;
+	}
+</style>
+<script>
+	window.onload=function(){
+		var _deviceRatio=document.getElementById("deviceRatio");
+		_deviceRatio.style.WebkitTransform="rotate3d(1,0,0,360deg) scale(1)";
+		_deviceRatio.addEventListener("webkitTransitionEnd", function(){
+			alert("scale completed~");
+		});
+		_deviceRatio.innerHTML="当前设备devicePixelRatio："+window.devicePixelRatio;
+		document.getElementById("clientWidth").innerHTML="当前设备clientWidth："+document.documentElement.clientWidth;
+		// document.documentElement.clientWidth
+	}
+</script>
+<body>
+	<p id="deviceRatio"></p>
+	<p id="clientWidth"></p>
+	<div class="imgs" id="imgs"><img src="../images/384_.png" alt="" /><img src="../images/384_.png" alt="" /><img src="../images/384_.png" alt="" /><img src="../images/384_.png" alt="" /></div>
+</body>
+</html>

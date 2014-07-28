@@ -1,0 +1,14 @@
+{
+  "name": "test-grunt",
+  "version": "1.0.0",
+  "description": "test grunt ",
+  "author": "nightost",
+  "license": "bsd",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*"
+  }
+}

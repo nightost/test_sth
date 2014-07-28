@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		.egg-box{
+			margin: 100px auto;
+			position: relative;
+			width: 158px;
+		}
+		.egg-box .hammer{
+			position: absolute;
+			width: 40%;
+			top: -26px;
+			right: -29px;
+			text-indent: -9999px;
+			-moz-transition: transform 0.1s ease-in-out;
+			-webkit-transition: transform 0.1s ease-in-out;
+			transition: transform 0.1s ease-in-out;
+			/* transform: rotate(-14deg); */
+			-moz-transform-origin: right bottom;
+			-webkit-transform-origin: right bottom;
+			transform-origin: right bottom;
+		}
+		.egg-box .egg{
+			width: 100%;
+			text-indent: -9999px;
+		}
+		.egg-box .borken-egg{
+			width: 100%;
+			text-indent: -9999px;
+		}
+		.egg-box .pieces{
+			width: 100%;
+			position: absolute;
+			top: -28px;
+			left: 0px;
+			text-indent: -9999px;
+		}
+	</style>
+	<script>
+		function godenEgg(id){
+			var _box=document.getElementById("egg-box");
+			var _hammer=document.getElementById("hammer");
+			var _egg=document.getElementById("egg");
+			var _pieces=document.getElementById("pieces");
+			//click
+			_box.addEventListener("click",function(){
+				_hammer.style.webkitTransform="rotate(-15deg)";
+				setTimeout(function(){
+					_pieces.style.display="block";
+					//显示碎蛋
+					_egg.src=_egg.attributes["img-src"].value;
+					//just webkit for test
+				},100);
+
+			});
+
+		}
+		//godenEgg
+		window.onload=function(){
+			var _godenEgg=new godenEgg();
+		};
+	</script>
+</head>
+<body>
+	<div id="egg-box" class="egg-box">
+		<img class="hammer" id="hammer" src="images/img-6.png"/>
+		<img id="pieces" class="pieces" src="images/img-4.png" style="display:none"/>
+		<img class="egg" id="egg" img-src="D:/cqw_workspace/test_sth/goldernEgg/images/egg_2.png" src="images/egg_1.png"/>
+	</div>
+</body>
+</html>

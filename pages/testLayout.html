@@ -1,0 +1,56 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style type="text/css">
+		.clearFloat:after{
+			float:none;
+			clear:both;
+			height: 0;
+			visibility: hidden;
+			content: "";
+			_zoom:1;
+		}
+	
+		@media screen and (max-width:980px){
+			#box{
+			width: 100%;
+			}
+			#box .part1{
+				float:left;
+				width: 50%;
+			}
+			#box .part1 img{
+				width: 100%;
+			}
+			#box .part2{
+				float:left;
+				width: 50%;
+			}
+		}
+		@media screen and (max-width:650px){
+			#box{
+				width: 100%;
+			}
+			#box .part1{
+				/*float:left;*/
+				width: 100%;
+			}
+			#box .part1 img{
+				width: 100%;
+			}
+			#box .part2{
+				/*float:left;*/
+				width: 100%;
+			}
+		}
+	</style>
+</head>
+<body>
+	<div id="box" class="clearFloat">
+		<div class="part1"><img src="images/320_640.png" alt=""></div>
+		<div class="part2"><p>这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明这是一个测试说明</p></div>
+	</div>
+</body>
+</html>

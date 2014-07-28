@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script type="text/javascript" src="../js_lib/jquery-1.11.1.js"></script>
+</head>
+<body style="height:1200px">
+	hahahahahah
+</body>
+<script type="text/javascript">
+	$(function(){
+		var _isSafariChrome=/safari/.test(navigator.userAgent.toLowerCase());
+		if(_isSafariChrome){
+			$("body").animate({"scrollTop":200},function(){
+				if(console){
+					console.log("animation stopped");
+				}
+			});
+		}
+		else{
+			$("html").animate({"scrollTop":200},function(){
+				if(console){
+					console.log("animation stopped");
+				}
+			});
+		}
+	});
+</script>
+</html>
