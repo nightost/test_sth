@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>Document</title>
+    <script type="text/javascript" src="./js/d3.js"></script>
+    <script type="text/javascript" src="js/forceMap.js"></script>
+    <style type="text/css">
+        html,body{
+            height: 100%;width: 100%"
+        }
+/*        line {
+            stroke: gray;
+            stroke-dasharray: 5;
+            stroke-width: 1.5;
+            pointer-events: none;
+        }*/
+        text{
+            font-size: 24px;
+            color: #d71a30;
+        }
+    </style>
+</head>
+<body style="background: #000000;>
+    <!--<div class="ext-p">-->
+        <!--<p>1</p>-->
+
+        <!--<p>2</p>-->
+
+        <!--<p>3</p>-->
+
+        <!--<p>4</p>-->
+    <!--</div>-->
+    <svg id="svg" width="100%" height="100%"></svg>
+    <script type="text/javascript">
+
+
+//        window.onload=function(){
+//            d3.selectAll("p")
+//                    .data([4, 8, 15, 16, 23, 42])
+//                    .style("font-size", function(d) { return d + "px"; });
+//        };
+
+        var nodes = [ { name: "王刚"    },
+            { name: "崇庆伟" },
+            { name: "XiaMen"    },
+            { name: "HangZhou"   },
+            { name: "ShangHai"   },
+            { name: "QingDao"    },
+            { name: "TianJin"    },
+            { name: "BeiJing"    },
+            { name: "ChangChun"  },
+            { name: "XiAn"       },
+            { name: "WuluMuQi"  },
+            { name: "LaSa"       },
+            { name: "ChengDu"    } ];
+
+        var edges = [  { source : 0  , target: 1 } ,
+            { source : 1  , target: 2 } ,
+            { source : 3  , target: 2 } ,
+            { source : 2  , target: 4 } ,
+            { source : 4  , target: 5 } ,
+            { source : 5  , target: 6 } ,
+            { source : 6  , target: 7 } ,
+            { source : 7  , target: 5 } ,
+            { source : 8  , target: 9 } ,
+            { source : 9  , target: 10 } ,
+//            { source : 10 , target: 11 } ,
+            { source : 11 , target: 12 }
+//            { source : 12 , target: 0 }
+];
+
+        var width=500;
+        var height=500;
+
+        var force = d3.layout.force()
+                .nodes(nodes)
+                .links(edges)
+                .size([width,height])
+                .linkDistance(100)
+                .charge([-100])
+                .gravity(.008)
+                .start();
+
+
+
+
+        var svg=d3.selectAll("#svg");
+
+        var svg_edges = svg.selectAll("line")
+                .data(edges)
+                .enter()
+                .append("line")
+//                .style("stroke-dasharray","5")
+                .style("stroke-dasharray",function(d,i){
+                    console.log("helle~~~~");
+                    console.log(edges[i].source);
+                    console.log(edges[i].target);
+                    if((edges[i].source.index==0)&&(edges[i].target.index==1)){
+                        return 5;
+                    }
+                    else{
+                        return 0;
+                    }
+                })
+                .style("stroke",function(){
+                    console.log("hello222");
+                    return "#ccc";
+                })
+                .style("stroke-width",1);
+        console.log(edges);
+        var color = d3.scale.category20();
+
+/*        var svg_nodes = svg.selectAll("text")
+                .data(nodes)
+                .enter()
+                .append("text")
+                .style("fill",function(d,i){
+                    return color(i);
+                })
+                .style("font-size","#f01bac")
+//                .attr("width",20)
+//                .attr("height",20)
+//                .style("stroke","#f01bba")
+//                .style("stroke-width",3)
+                .text(function(d,i){
+                    return nodes[i].name
+                })
+                .call(force.drag); */
+
+
+/*        var svg_nodes = svg.selectAll("circle")
+                .data(nodes)
+                .enter()
+                .append("circle")
+                .attr("r",10)
+                .style("fill",function(d,i){
+                    return color(i);
+                })
+                .call(force.drag);*/
+
+
+                /*var svg_nodes = svg.selectAll("rect")
+                .data(nodes)
+                .enter()
+                .append("svg:rect")
+                .attr("width", 20)
+                .attr("height", 20)
+                .style("stroke", "#FFF")
+                .style("stroke-width", 1)
+                .style("fill",function(d,i){
+                    return color(i);
+                })
+                .call(force.drag);*/
+
+                var svg_nodes = svg.selectAll("text")
+                        .data(nodes)
+                        .enter()
+                        .append("svg:text")
+                        .style("font-family", "Arial")
+                        .style("font-size", 18)
+                        .text(function(d,i){
+                            return nodes[i].name;
+                        })
+                        .style("fill",function(d,i){
+                            return color(i);
+                        })
+                        .call(force.drag);
+
+                svg_nodes.append("svg:rect")
+                        .attr("width", 20)
+                        .attr("height", 20)
+                        .style("stroke", "#FFF")
+                        .style("stroke-width", 1)
+                        .style("fill",function(d,i){
+                            return color(i);
+                        })
+
+
+
+        /*var svg_nodes = svg.selectAll("g.svg_nodes").data(nodes).enter().append("svg:g").attr("class", "svg_nodes");
+        svg_nodes.append("svg:circle").attr("r", 0).style("fill", "#FFF");
+        svg_nodes.append("svg:text").text(function(d, i) {
+            return i % 2 == 0 ? "" : d.name
+        }).style("fill", "#555").style("font-family", "Arial").style("font-size", 12);*/
+
+
+
+
+        force.on("tick", function(){
+
+            svg_edges.attr("x1",function(d){ return d.source.x; });
+            svg_edges.attr("y1",function(d){ return d.source.y; });
+            svg_edges.attr("x2",function(d){ return d.target.x; });
+            svg_edges.attr("y2",function(d){ return d.target.y; });
+
+            /*svg_nodes.attr("cx",function(d){ return d.x; });
+            svg_nodes.attr("cy",function(d){ return d.y; });*/
+            svg_nodes.attr("x",function(d){ return d.x; });
+            svg_nodes.attr("y",function(d){ return d.y; });
+        });
+    </script>
+</body>
+</html>

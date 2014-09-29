@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="js/jquery-1.6.1.min.js"></script>
+		<script src="js/arbor.js"></script>
+	<script src="js/halfviz.js"></script>
+
+	<script src="js/arbor-tween.js"></script>	
+	<script src="js/renderer.js"></script>
+	<script src="js/graphics.js"></script>
+	  <script src="js/dashboard.js"></script>
+	  <script src="js/help.js"></script>
+	  <script src="js/io.js"></script>
+	  <script src="js/parseur.js"></script>
+	  <style>
+		body{
+			background: #373333;
+		}
+	  </style>
+</head>
+<body>
+	<canvas id="viewport" width="800" height="600"></canvas>
+	<script>
+		var parse = Parseur().parse
+		var _string={"src": ";\n; CYOA 53 (1986)\n; Case Of The Silk King\n; by Shannon Gilligan\n;\n; Each node is a page in the book, with\n; the lines between them representing \n; choices. The first page is drawn in\n; black and marked with a dot.\n;\n; Pages that contain an ending are color- \n; coded based on the goodness of that \n; ending. red is catastrophic, warm colors \n; are of varying levels of mediocrity, and \n; blue is the ideal, \u2018winning\u2019 ending.\n;\n\n; don\u2019t color in the decision pages\n{color:none}\n\n; choices\nboss-> 4\nboss-> 12\n4 -> 21\n4 -> 23\n7 -> 34\n7 -> 13\n7 -> 44\n12 -> 25\n12 -> 24\n23 -> 50\n23 -> 53\n24 -> 6\n24 -> 42\n25 -> 王刚\n25 -> 崇庆伟\n32 -> 47\n32 -> 84\n42 -> 32\n42 -> 7\n50 -> 72\n50 -> 65\n53 -> 67\n53 -> 68\n崇庆伟 -> 79\n崇庆伟 -> 80\n67 -> 88\n67 -> 83\n68 -> 77\n68 -> 91\n80 -> 99\n80 -> 97\n88 -> 110\n88 -> 104\n91 -> 106\n91 -> 100\n\n; endings\nboss{color:#444, shape:dot, label:\u00b7}\n6 {color:#c6531e}\n13 {color:#c6531e}\n21 {color:#c6531e}\n34 {color:#db8e3c}\n44 {color:#b01700}\n47 {color:#ffe35f}\n65 {color:#c6531e}\n72 {color:#b01700}\n77 {color:#b01700}\n79 {color:#b01700}\n83 {color:#b01700}\n84 {color:#b01700}\n王刚 {color:#b01700}\n97 {color:#db8e3c}\n99 {color:#95cde5}\n100 {color:#ffe35f}\n104 {color:#c6531e}\n106 {color:#ffe35f}\n110 {color:#b01700}", "example": "cyoa", "title": "Case Of The Silk King"};
+
+		var sys;
+		$(function(){
+			sys = arbor.ParticleSystem();
+   			sys.renderer = Renderer("#viewport") 
+   			sys.screenPadding(20);
+   			var _node=parse(_string.src);
+   			$.each(_node.nodes, function(nname, ndata){
+         		 if (ndata.label===undefined) ndata.label = nname
+        	})
+   			sys.merge(_node);	
+		});	
+	</script>
+</body>
+</html>	

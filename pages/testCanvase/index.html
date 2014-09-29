@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script>
+		window.onload=function(){
+			var _canvas=document.getElementById("canv");
+			var _2dCanvas=_canvas.getContext("2d");
+
+			_2dCanvas.beginPath();
+			_2dCanvas.arc(100,100,99,0,2*Math.PI,false);
+			//分针
+			_2dCanvas.moveTo(100,100);
+			_2dCanvas.lineTo(100,45);
+			//时针
+			_2dCanvas.moveTo(100,100);
+			_2dCanvas.lineTo(35,100);
+			//12点
+			_2dCanvas.font="bold 14px Arial";
+			_2dCanvas.textAlign="center";
+			_2dCanvas.textBaseline="middle";
+			_2dCanvas.fillText("12",100,20);
+			_2dCanvas.stroke();
+		}
+	</script>
+</head>
+<body>
+	<canvas id="canv" width=300 height=300></canvas>
+</body>
+</html>
