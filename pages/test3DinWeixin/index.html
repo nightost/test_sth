@@ -54,10 +54,48 @@
 			});
 		}
 	</script>
+	<style>
+		.box{
+			-webkit-perspective:1200;
+			display: inline-block;
+			margin-left: 200px;
+		}
+		.wrapper{
+			-webkit-transform-style: preserve-3d;
+			transform-style: preserve-3d;
+			-webkit-transform:rotateX(-45deg);
+			/*-webkit-transform-origin: 50% 100%;	*/
+			-webkit-transform-origin: center;
+			display: inline-block;
+		}
+		.box .content{
+			width: 200px;
+			height: 100px;
+			background: lightblue;
+			
+		}
+		.box .top{
+			position: absolute;
+			height: 20px;
+			width: 200px;
+			top:-20px;
+			background: blue;
+			-webkit-transform-origin: 50% 100%;
+			-webkit-transform:rotateX(90deg);
+		}
+	</style>
 </head>
 <body>
 	<img class="beef" id="beef" src="black_beef.png" alt="" />
-
+	<br />
+	<div class="box">
+		<div class="wrapper">
+			<div class="content">哈哈</div>
+			<div class="top">
+				<div class="progress"></div>
+			</div>
+		</div>
+	</div>
 	<!-- <span class="beef" id="beef">好傻哈哈哈哈</span> -->
 </body>
 </html>
