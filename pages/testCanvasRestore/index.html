@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <canvas id="cans"></canvas>
+    <script>
+        window.onload=function(){
+            var _canvas=document.getElementById("cans");
+            var _2dctx=_canvas.getContext("2d");
+
+            _2dctx.fillStyle="purpers";
+            _2dctx.fillRect(0,0,100,100);
+            _2dctx.save();
+
+            _2dctx.fillStyle="green";
+            _2dctx.fillRect(10,10,80,80);
+
+            _2dctx.restore();
+
+            _2dctx.fillRect(20,20,60,60);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <canvas id="canv" width=600 height=600></canvas>
+    <button value="red" onclick='changelineColor("#F70808")'>red</button>
+    <button value="red" onclick='changelineColor("#38FF17")'>green</button>
+    <button onclick="savaImage();">save</button>
+    <img id="hah"  src="" alt=""/>
+    <script>
+        window.onload=function(){
+            var _canvas=document.getElementById("canv");
+            var _2dCtx=_canvas.getContext("2d");
+            _2dCtx.fillStyle="#000";
+            _2dCtx.fillRect(0,0,600,600);
+
+            _canvas.addEventListener("mousemove",draw,true);
+
+            _canvas.addEventListener("mousedown",down,true);
+
+            _canvas.addEventListener("mouseup",up,true);
+            _canvas.addEventListener("mouseout",up,true);
+
+            _2dCtx.strokeStyle="#eff000";
+
+            var _lastX=0;
+            var _lastY=0;
+            var _newX=0;
+            var _newY=0;
+            var _downFlag=false;
+
+            function down(e){
+                _downFlag=true;
+                _lastX= e.pageX-10;
+                _lastY= e.pageY-10;
+            }
+
+            function up(e){
+                _downFlag=false;
+            }
+
+            function draw(e){
+                if(_downFlag){
+                    _newX= e.pageX-10;
+                    _newY= e.pageY-10;
+                    drawLine();
+                }
+            }
+
+            function drawLine(){
+                _2dCtx.beginPath();
+                _2dCtx.moveTo(_lastX,_lastY);
+                _2dCtx.lineTo(_newX,_newY);
+
+                _2dCtx.lineWidth=4;
+                _2dCtx.lineCap="round";
+                _2dCtx.stroke();
+
+                _lastX=_newX;
+                _lastY=_newY;
+            }
+
+
+        }
+
+        function savaImage(){
+            var _canvas=document.getElementById("canv");
+            var _imageData=_canvas.toDataURL("images/png");
+            document.getElementById("hah").src=_imageData;
+        }
+
+        function changelineColor(color){
+            var _canvas=document.getElementById("canv");
+            var _2dCtx=_canvas.getContext("2d");
+            _2dCtx.strokeStyle=color;
+        }
+    </script>
+<div style="background: #ffff00"></div>
+</body>
+</html>

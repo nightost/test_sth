@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>Document</title>
+	<script src="../jquery-1.9.1.min.js"></script>
+	<script>
+		// mootools events don't work with beforeunload for some reason
+	window.onbeforeunload = function(){
+		alert("11");
+	  if (window.editorsModified){
+	    return "You've modified your fiddle, reloading the page will reset all changes."
+	  }
+	};
+	</script>
+</head>
+<body>
+	
+</body>
+</html>

@@ -8,8 +8,16 @@
 			var _canvas=document.getElementById("canv");
 			var _2dCanvas=_canvas.getContext("2d");
 
-			_2dCanvas.beginPath();
+			// 创建渐变
+			var gradient=_2dCanvas.createRadialGradient(100,100,10,100,100,99);
+			gradient.addColorStop("0","magenta");
+			gradient.addColorStop("0.5","blue");
+			gradient.addColorStop("1.0","red");
+
+			/*_2dCanvas.beginPath();
 			_2dCanvas.arc(100,100,99,0,2*Math.PI,false);
+			_2dCanvas.fillStyle=gradient;
+			_2dCanvas.fill();
 			//分针
 			_2dCanvas.moveTo(100,100);
 			_2dCanvas.lineTo(100,45);
@@ -18,10 +26,40 @@
 			_2dCanvas.lineTo(35,100);
 			//12点
 			_2dCanvas.font="bold 14px Arial";
-			_2dCanvas.textAlign="center";
+			_2dCanvas.textAlign="center";//根据坐标点设置居中方式
 			_2dCanvas.textBaseline="middle";
 			_2dCanvas.fillText("12",100,20);
 			_2dCanvas.stroke();
+			//时
+			//缩小画布，坐标值也会相应缩小！！
+			_2dCanvas.scale(1,1);
+			//都赋值为负值的时候，即为第三象限，图像也会跟着颠倒
+			// _2dCanvas.scale(-1,-1);
+			// _2dCanvas.rotate(45*Math.PI/180);
+			// _2dCanvas.translate(20,20);
+			_2dCanvas.font="bold 14px Arial";
+			_2dCanvas.textAlign="center";//根据坐标点设置居中方式
+			_2dCanvas.textBaseline="center";
+			_2dCanvas.fillStyle=gradient;
+			// _2dCanvas.fillText("Nightost",-100,-100);
+			_2dCanvas.fillText("Hello Nightost",200,80);
+			_2dCanvas.stroke();*/
+			var _img=new Image();
+			_img.src="black_beef.png";
+			_img.onload=function(){
+                _2dCanvas.drawImage(_img,0,0);
+				var _imgData=_2dCanvas.getImageData(0,0,402,394);
+                var _data=_imgData.data;
+				var _len=_data.length;
+				for(var i=0;i<_len;i+=4){
+                    _data[i]=255-_data[i];
+                    _data[i]=255-_data[i+2];
+                    _data[i]=255-_data[i+4];
+				}
+
+				_imgData=_2dCanvas.putImageData(_imgData,0,0);
+			}
+
 		}
 	</script>
 </head>

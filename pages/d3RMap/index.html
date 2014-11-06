@@ -8,7 +8,8 @@
     <script type="text/javascript" src="js/forceMap.js"></script>
     <style type="text/css">
         html,body{
-            height: 100%;width: 100%"
+            height: 100%;
+            width: 100%;
         }
 /*        line {
             stroke: gray;
@@ -22,25 +23,9 @@
         }
     </style>
 </head>
-<body style="background: #000000;>
-    <!--<div class="ext-p">-->
-        <!--<p>1</p>-->
-
-        <!--<p>2</p>-->
-
-        <!--<p>3</p>-->
-
-        <!--<p>4</p>-->
-    <!--</div>-->
-    <svg id="svg" width="100%" height="100%"></svg>
+<body style="background: #715D5D;">
+        <svg id="svg" width="100%" height="100%"></svg>
     <script type="text/javascript">
-
-
-//        window.onload=function(){
-//            d3.selectAll("p")
-//                    .data([4, 8, 15, 16, 23, 42])
-//                    .style("font-size", function(d) { return d + "px"; });
-//        };
 /*{人员id:{
     名字：,
     归属：，
@@ -76,6 +61,8 @@
                 _index++;
             }
         }
+
+
         function formateData(data){
             var _index;
             for(var i in data){
@@ -117,34 +104,6 @@
          addDataIndex(_data);
          formateData(_data);
 
-        var nodes = [ { name: "王刚"    },
-            { name: "欧阳宇峻" },
-            { name: "XiaMen"    },
-            { name: "HangZhou"   },
-            { name: "ShangHai"   },
-            { name: "QingDao"    },
-            { name: "TianJin"    },
-            { name: "BeiJing"    },
-            { name: "ChangChun"  },
-            { name: "XiAn"       },
-            { name: "WuluMuQi"  },
-            { name: "LaSa"       },
-            { name: "ChengDu"    } ];
-
-        var edges = [  { source : 0  , target: 1 } ,
-            { source : 1  , target: 2 } ,
-            { source : 3  , target: 2 } ,
-            { source : 2  , target: 4 } ,
-            { source : 4  , target: 5 } ,
-            { source : 5  , target: 6 } ,
-            { source : 6  , target: 5 } ,
-            { source : 7  , target: 5 } ,
-            { source : 8  , target: 4 } ,
-            { source : 9  , target: 12 } ,
-//            { source : 10 , target: 11 } ,
-            { source : 11 , target: 12 },
-            { source : 12 , target: 4 }
-];
 
         var width=500;
         var height=500;
@@ -158,9 +117,6 @@
                 .gravity(.01)
                 .friction(.5)
                 .start();
-
-
-
 
         var svg=d3.selectAll("#svg");
 

@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<div id="box">
+		<a href="">1</a>
+		<a href="">2</a>
+		<a href="">3</a>
+		<a href="">4</a>
+		<a href="">5</a>
+		<a href="">6</a>
+		<a href="">7</a>
+		<a href="">8</a>
+		<a href="">9</a>
+		<a href="">10</a>
+		<a href="">11</a>
+		<a href="">12</a>
+		<a href="">13</a>
+		<a href="">14</a>
+		<a href="">15</a>
+		<a href="">16</a>
+		<a href="">17</a>
+		<a href="">18</a>
+		<a href="">19</a>
+		<a href="">20</a>
+		<a href="">21</a>
+		<a href="">22</a>
+		<a href="">23</a>
+	</div>
+	<script type="text/javascript">
+		window.onload=function(){
+			var _box=document.getElementById("box");
+			var _aTags=	_box.getElementsByTagName("a");
+			var _visBox=document.createElement("div");
+			var _len=_aTags.length;
+
+			if(_len==0)return;
+			//遍历，遇5pop
+			var _fiveCol="";
+			for(var i=0;i<_len;i++){
+				//最后，一起pop
+				if(i==(_len-1)){
+					creatPTag(_fiveCol);
+				}
+				//逢5
+				if(((i+1)%5)==0){
+
+					_fiveCol=_fiveCol+_aTags[i].outerHTML;
+					creatPTag(_fiveCol);
+					i++;
+				}
+				//正常加入
+				_fiveCol=_fiveCol+_aTags[i].outerHTML;
+				_aTags[i].style.display="none";
+			}
+			removeAllAtag();
+			_box.appendChild(_visBox);
+			//生成p标签
+			function creatPTag(html){
+				var _p=document.createElement("p");
+				_p.className="haha";
+				_p.innerHTML=html;
+				_visBox.appendChild(_p);
+				_fiveCol="";
+			}
+			//remove all a
+			function removeAllAtag(){
+				for(var j=0;j<_len;j++){
+					console.log(j);
+					console.log(_aTags[0].innerHTML);
+					_box.removeChild(_aTags[0]);
+				}
+			}
+
+		}
+
+	</script>
+</body>
+</html>

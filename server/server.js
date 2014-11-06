@@ -6,6 +6,8 @@ var _mime=require("../common/mine.js").mime;
 var _server=_http.createServer(requestListener);
 _server.listen(8082);
 console.log("Server started at 8082");
+//log current executing directory
+console.log(__dirname);
 /**
  * [requestListener description]
  * @param  {[type]} request  [description]
