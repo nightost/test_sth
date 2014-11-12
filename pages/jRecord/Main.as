@@ -67,7 +67,6 @@
 				mic.setLoopBack(false);
 				mic.setUseEchoSuppression(true);
 				Security.showSettings("2");
-								
 			}
 			
 			addListeners();
@@ -84,7 +83,6 @@
 			recorder.addEventListener(RecordingEvent.RECORDING, recording);
 			recorder.addEventListener(Event.COMPLETE, recordComplete);
 			activity.addEventListener(Event.ENTER_FRAME, updateMeter);
-			 
 			 
 			//accept call from javascript to start recording
 			ExternalInterface.addCallback("jStartRecording", jStartRecording);
