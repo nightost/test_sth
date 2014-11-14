@@ -1,0 +1,12 @@
+{
+  "family": "first",
+  "name": "first",
+  "version": "1.0.0",
+  "spm": {
+    "alias": {
+      "jquery": "jquery",
+      "util":"../../util/util.js"
+    },
+    "output": ["src/main.js"]
+  }
+}

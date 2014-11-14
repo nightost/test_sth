@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>helloWorld</title>
+    <script src="../spm_modules/seajs/2.3.0/dist/sea.js"></script>
+    <link rel="stylesheet" href="../spm_modules/static/first/src/main.min.css"/>
+</head>
+<body>
+    <div class="robot">
+        <input type="button" value="hello" class="btn btn-primary"/>
+        <input type="button" value="go to hell" class="btn btn-success"/>
+        <input type="button" value="goodbye" class="btn btn-info"/>
+    </div>
+    <div class="dropdown">
+        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
+            Dropdown
+            <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Action</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Another action</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Something else here</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Separated link</a></li>
+        </ul>
+    </div>
+    <script>
+        seajs.config({
+            base: "../spm_modules/",
+            alias:{
+                "jquery":"jquery/2.1.1/jquery.js#",
+                "sea-debug":"seaja/2.3.0/dist/sea-debug.js",
+                "bootstrap-drapdown":"bootstrap/assets/javascripts/bootstrap/dropdown.js"
+            },
+            debug:true
+        });
+
+        if(location.href.indexOf("?deve")){
+//            seajs.use("../static/first/src/main");
+            seajs.use("static/first/src/main");
+        }
+        else{
+//            seajs.use("../output/first/src/main");
+        }
+    </script>
+</body>
+</html>

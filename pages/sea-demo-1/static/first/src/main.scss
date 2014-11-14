@@ -1,0 +1,17 @@
+@import "../../util/imports/variables";
+@import "../../util/common.scss";
+@import "../../../spm_modules/bootstrap/assets/stylesheets/_bootstrap.scss";
+input{
+  border:0 none;
+  width: 80px;
+  height: 30px;
+}
+.r-btn{
+  background: $red;
+}
+.b-btn{
+  background: $blue;
+}
+.y_btn{
+  background: $yellow;
+}
