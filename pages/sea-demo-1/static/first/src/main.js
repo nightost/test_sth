@@ -1,6 +1,6 @@
 define(function(require){
 
-    var util=require("../../util/util.js");
+    var logInfo=require("logInfo");
 
     var $ = require('jquery');
 
@@ -8,9 +8,8 @@ define(function(require){
 
     var bs_select=require('bootstrap-drapdown')($);
 
-    var css = require("main.css");
 
-    var _tool=new util();
+    var _tool=new logInfo();
 
     $(function(){
         var _btns=$(".robot input");

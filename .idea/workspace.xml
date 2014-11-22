@@ -2,104 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cfa918a-3fd1-4f92-82aa-8a892406bf30" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_alerts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_background-variant.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_badges.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_border-radius.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_breadcrumbs.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_button-groups.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_buttons.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_buttons.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_carousel.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_clearfix.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_close.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_code.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_component-animations.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_dropdowns.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_forms.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_forms.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_glyphicons.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_gradients.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_grid-framework.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_grid.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_grid.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_hide-text.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_image.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_input-groups.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_jumbotron.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_labels.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_labels.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_list-group.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_list-group.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_media.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_mixins.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_modals.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_nav-divider.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_nav-vertical-align.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_navbar.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_navs.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_normalize.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_opacity.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_pager.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_pagination.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_pagination.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_panels.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_panels.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_popovers.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_print.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_progress-bar.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_progress-bars.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_reset-filter.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_resize.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_responsive-embed.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_responsive-utilities.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_responsive-visibility.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_scaffolding.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_size.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_tab-focus.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_table-row.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_tables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_text-emphasis.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_text-overflow.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_thumbnails.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_tooltip.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_type.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_utilities.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_vendor-prefixes.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/39f6485ffed7a2be741669ed3d3d885fb5d05b83/_wells.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/5962800b03f506410267e374402e2967f350347c/common.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/demos/css3-shine-switch-button/css3-shine-switch-button.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/seajs-test/examples" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/98f035937996411296efc082c852c262de3e7a41/main.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_alerts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/6fff88b67f684f9b28b6dc9daee56e470691faf4/_bootstrap.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/21ffdf93b241f24b66ab3a942f2ef384685d3635/_center-block.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/static/util/common.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/html/hellowWord.hmlt.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/tests/index-spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/demos/css3-shine-switch-button/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/demos/shine-progress/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/demos/css3-shine-switch-button/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/examples/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/static/first/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/static/first/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/demos/css3-shine-switch-button/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/static/util/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/static/util/imports/variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/5962800b03f506410267e374402e2967f350347c/variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/6ed051e0ea64c41ad890166c5c19caa1a7416ba4/variables.scssc" />
-      <change type="DELETED" beforePath="E:\cqw_workspace\test_sth\pages\express\nodejs-demo\views\error.ejs" afterPath="" />
       <change type="DELETED" beforePath="E:\cqw_workspace\test_sth\pages\jRecord\恢复_AudioRecorderCS4.fla" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/test_sth.iml" afterPath="$PROJECT_DIR$/.idea/test_sth.iml" />
+      <change type="DELETED" beforePath="E:\cqw_workspace\test_sth\pages\sea-demo-1\static\first\src\main.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\cqw_workspace\test_sth\pages\sea-demo-1\static\util\common.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\cqw_workspace\test_sth\pages\sea-demo-1\static\util\imports\variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\cqw_workspace\test_sth\pages\sea-demo-1\static\util\util.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/seajs-test/examples" afterPath="$PROJECT_DIR$/pages/seajs-test/examples" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/sea-demo-1/Gruntfile.js" afterPath="$PROJECT_DIR$/pages/sea-demo-1/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/sea-demo-1/html/hellowWord.hmlt.html" afterPath="$PROJECT_DIR$/pages/sea-demo-1/html/hellowWord.hmlt.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.js" afterPath="$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.scss" afterPath="$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/98f035937996411296efc082c852c262de3e7a41/main.scssc" afterPath="$PROJECT_DIR$/pages/sea-demo-1/.sass-cache/98f035937996411296efc082c852c262de3e7a41/main.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/sea-demo-1/package.json" afterPath="$PROJECT_DIR$/pages/sea-demo-1/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test_sth.iws" />
@@ -122,102 +36,104 @@
     <favorites_list name="test_sth" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.84777516">
+    <splitter split-orientation="horizontal" split-proportion="0.8798736">
       <split-first>
         <leaf>
-          <file leaf-file-name="hellowWord.hmlt.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/html/hellowWord.hmlt.html">
+          <file leaf-file-name="_alerts.scss" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_alerts.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-9.962963" vertical-offset="531" max-vertical-offset="1300">
-                  <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+                <state vertical-scroll-proportion="-4.6296296" vertical-offset="0" max-vertical-offset="500">
+                  <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/Gruntfile.js">
+          <file leaf-file-name="_background-variant.scss" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_background-variant.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="2675">
-                  <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="425">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.css">
+          <file leaf-file-name="_border-radius.scss" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_border-radius.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="136450" max-vertical-offset="136900">
-                  <caret line="5466" column="8" selection-start-line="5466" selection-start-column="8" selection-end-line="5466" selection-end-column="8" />
-                  <folding>
-                    <marker date="1415957508863" expanded="true" signature="145592:145617" placeholder="{...}" />
-                    <marker date="1415957508863" expanded="true" signature="145627:145652" placeholder="{...}" />
-                    <marker date="1415957508863" expanded="true" signature="145685:145687" placeholder="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.3812636" vertical-offset="0" max-vertical-offset="800">
-                  <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="600">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="28" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="dropdown.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/javascripts/bootstrap/dropdown.js">
+          <file leaf-file-name="_bootstrap.scss" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/_bootstrap.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="3534" max-vertical-offset="4225">
-                  <caret line="157" column="0" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.scss" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-1.9230769" vertical-offset="0" max-vertical-offset="550">
-                  <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+                <state vertical-scroll-proportion="-0.9259259" vertical-offset="0" max-vertical-offset="1400">
+                  <caret line="1" column="28" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="28" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="variables.scss" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/util/imports/variables.scss">
+          <file leaf-file-name="_variables.scss" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/_variables.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.96153843" vertical-offset="0" max-vertical-offset="200">
-                  <caret line="2" column="7" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="7" />
+                <state vertical-scroll-proportion="-3.9937758" vertical-offset="2175" max-vertical-offset="21750">
+                  <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/static/first/src/main.js">
+          <file leaf-file-name="_clearfix.scss" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_clearfix.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="975">
-                  <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-                  <folding>
-                    <element signature="e#981#1022#0" expanded="false" />
-                  </folding>
+                <state vertical-scroll-proportion="6.703704" vertical-offset="181" max-vertical-offset="700">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="util.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/static/util/util.js">
+          <file leaf-file-name="_gradients.scss" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_gradients.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="500">
-                  <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+                <state vertical-scroll-proportion="13.888889" vertical-offset="375" max-vertical-offset="1600">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_image.scss" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_image.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="2.7777777" vertical-offset="300" max-vertical-offset="975">
+                  <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_code.scss" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/_code.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="8.333333" vertical-offset="225" max-vertical-offset="1875">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_list-group.scss" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_list-group.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-9.259259" vertical-offset="0" max-vertical-offset="925">
+                  <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
@@ -230,8 +146,18 @@
           <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.37020317" vertical-offset="564" max-vertical-offset="1075">
-                  <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+                <state vertical-scroll-proportion="0.21509434" vertical-offset="561" max-vertical-offset="1150">
+                  <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/Gruntfile.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="3828" max-vertical-offset="5800">
+                  <caret line="158" column="33" selection-start-line="158" selection-start-column="33" selection-end-line="158" selection-end-column="33" />
                   <folding />
                 </state>
               </provider>
@@ -282,16 +208,20 @@
         <option value="$PROJECT_DIR$/pages/sea-demo-1/spm_modules/jquery/2.1.1/jquery.js" />
         <option value="$PROJECT_DIR$/pages/sea-demo-1/static/first/package.json" />
         <option value="$PROJECT_DIR$/pages/test_sass_bootstrap/bootstrap-sass-3.3.0/assets/javascripts/bootstrap.js" />
-        <option value="$PROJECT_DIR$/pages/sea-demo-1/package.json" />
         <option value="$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.css" />
         <option value="$PROJECT_DIR$/pages/sea-demo-1/static/util/imports/variables.scss" />
         <option value="$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.scss" />
         <option value="$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/javascripts/bootstrap/dropdown.js" />
         <option value="$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/javascripts/bootstrap.js" />
-        <option value="$PROJECT_DIR$/pages/sea-demo-1/html/hellowWord.hmlt.html" />
-        <option value="$PROJECT_DIR$/pages/sea-demo-1/Gruntfile.js" />
         <option value="$PROJECT_DIR$/pages/sea-demo-1/spm_modules/static/first/src/main.js" />
+        <option value="$PROJECT_DIR$/pages/sea-demo-1/spm_modules/.build/first/dist/main.js" />
+        <option value="$PROJECT_DIR$/pages/sea-demo-1/package.json" />
+        <option value="$PROJECT_DIR$/pages/sea-demo-1/spm_modules/util/util.js" />
         <option value="$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.js" />
+        <option value="$PROJECT_DIR$/pages/sea-demo-1/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/pages/sea-demo-1/spm_modules/.build/util/logInfo.js" />
+        <option value="$PROJECT_DIR$/pages/sea-demo-1/spm_modules/util/logInfo.js" />
+        <option value="$PROJECT_DIR$/pages/sea-demo-1/html/hellowWord.hmlt.html" />
       </list>
     </option>
   </component>
@@ -340,9 +270,10 @@
     <initial>false</initial>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="30" />
-    <option name="width" value="1357" />
-    <option name="height" value="768" />
+    <option name="x" value="-8" />
+    <option name="y" value="22" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -414,7 +345,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
+              <option name="myItemId" value="server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -429,76 +360,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testCanvase" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sass_bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sass_bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-sass-3.3.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sass_bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-sass-3.3.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -521,6 +382,224 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_sth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_sth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seajs-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_sth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_sth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seajs-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_sth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_sth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seajs-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_sth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_sth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seajs-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_sth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_sth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seajs-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sea-modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_sth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_sth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seajs-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sea-modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_sth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_sth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seajs-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sea-modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1.0.0" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -586,7 +665,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
+              <option name="myItemId" value="tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -664,40 +743,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spm_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sea-demo-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spm_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -706,7 +751,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -826,89 +871,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sea-demo-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spm_modules" />
+              <option name="myItemId" value="stylesheets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sea-demo-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_sth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sea-demo-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -947,13 +914,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\cqw_workspace\test_sth\pages\sea-demo-1\spm_modules\jquery\2.1.1" />
+      <recent name="E:\cqw_workspace\test_sth\pages\sea-demo-1\static\util" />
       <recent name="E:\cqw_workspace\test_sth\pages\sea-demo-1\spm_modules\bootstrap" />
       <recent name="E:\cqw_workspace\test_sth\pages\sea-demo-1" />
       <recent name="E:\cqw_workspace\test_sth\pages\sea-demo-1\static\first" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\cqw_workspace\test_sth\pages\sea-demo-1\static\util\imports" />
       <recent name="E:\cqw_workspace\test_sth\pages\sea-demo-1\spm_modules" />
+      <recent name="E:\cqw_workspace\test_sth\pages\sea-demo-1\static\util" />
+      <recent name="E:\cqw_workspace\test_sth\pages\sea-demo-1\static\util\src" />
+      <recent name="E:\cqw_workspace\test_sth\pages\sea-demo-1\static\util\imports" />
       <recent name="E:\cqw_workspace\test_sth\pages\d3Test\js" />
     </key>
   </component>
@@ -1055,15 +1026,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="1357" height="768" extended-state="0" />
+    <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19623233" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19654088" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49117175" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.04012841" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34723276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3022508" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
@@ -1108,391 +1079,394 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/test_sass_bootstrap/bootstrap-sass-3.3.0/assets/stylesheets/bootstrap/mixins/_background-variant.scss">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.37128714" vertical-offset="0" max-vertical-offset="550">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/test_sass_bootstrap/bootstrap-sass-3.3.0/assets/stylesheets/bootstrap/_variables.scss">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/javascripts/bootstrap/dropdown.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1792452" vertical-offset="750" max-vertical-offset="21750">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.8261851" vertical-offset="3159" max-vertical-offset="4075">
+          <caret line="147" column="42" selection-start-line="147" selection-start-column="42" selection-end-line="147" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/test_sass_bootstrap/bootstrap-sass-3.3.0/assets/stylesheets/bootstrap/_alerts.scss">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/static/first/main-debug.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46040517" vertical-offset="0" max-vertical-offset="1850">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.71884984" vertical-offset="0" max-vertical-offset="136900">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/test_sass_bootstrap/bootstrap-sass-3.3.0/assets/stylesheets/_bootstrap-compass.scss">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/first/dist/main-debug.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.046040516" vertical-offset="0" max-vertical-offset="543">
-          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/test_sass_bootstrap/bootstrap-sass-3.3.0/assets/stylesheets/_bootstrap-sprockets.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08818342" vertical-offset="0" max-vertical-offset="567">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/test_sass_bootstrap/bootstrap-sass-3.3.0/assets/stylesheets/_bootstrap-mincer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6768953" vertical-offset="0" max-vertical-offset="575">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/test_sass_bootstrap/bootstrap-sass-3.3.0/assets/stylesheets/bootstrap/mixins/_alerts.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08818342" vertical-offset="0" max-vertical-offset="567">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/test_sass_bootstrap/bootstrap-sass-3.3.0/assets/stylesheets/_bootstrap.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="1400">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/static/hello/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5059022" vertical-offset="0" max-vertical-offset="593">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/static/hello/src/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1000">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/static/hello/dist/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/static/hello/dist/style-debug.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/sea-modules/examples/hello/1.0.0/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/sea-modules/examples/hello/1.0.0/main-debug.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1500">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/sea-modules/examples/hello/1.0.0/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/sea-modules/examples/hello/1.0.0/style-debug.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="775">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/static/hello/dist/main-debug.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75757575" vertical-offset="0" max-vertical-offset="1500">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/examples/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="582">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/static/hello/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.333333" vertical-offset="0" max-vertical-offset="425">
-          <caret line="9" column="3" selection-start-line="8" selection-start-column="27" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/testCanvase/draw.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3147482" vertical-offset="525" max-vertical-offset="2200">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/qs/test/browser/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3070176" vertical-offset="223730" max-vertical-offset="224750">
-          <caret line="8979" column="37" selection-start-line="8979" selection-start-column="37" selection-end-line="8979" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/sea-modules/jquery/jquery/1.10.1/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30701753" vertical-offset="0" max-vertical-offset="570">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="16" />
+        <state vertical-scroll-proportion="186.82109" vertical-offset="1800" max-vertical-offset="136900">
+          <caret line="2411" column="13" selection-start-line="2411" selection-start-column="13" selection-end-line="2411" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/static/hello/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17152658" vertical-offset="0" max-vertical-offset="583">
+        <state vertical-scroll-proportion="0.22123894" vertical-offset="0" max-vertical-offset="452">
           <caret line="4" column="22" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/static/hello/src/spinning.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42881647" vertical-offset="0" max-vertical-offset="1850">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1850">
+          <caret line="0" column="43" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/test_sass_bootstrap/bootstrap-sass-3.3.0/assets/javascripts/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/jquery/2.1.1/jquery-debug.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34210527" vertical-offset="3505" max-vertical-offset="56650">
-          <caret line="148" column="38" selection-start-line="148" selection-start-column="38" selection-end-line="148" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.45045045" vertical-offset="0" max-vertical-offset="229225">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/first/package.json">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/.build/first/dist/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12931034" vertical-offset="0" max-vertical-offset="580">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.3753754" vertical-offset="0" max-vertical-offset="600">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/jquery/2.1.1/jquery.js">
+    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/static/hello/dist/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08417509" vertical-offset="75" max-vertical-offset="229225">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.053418804" vertical-offset="0" max-vertical-offset="468">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/static/hello/dist/main-debug.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64912283" vertical-offset="1205" max-vertical-offset="1775">
-          <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.6097561" vertical-offset="0" max-vertical-offset="1500">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mygit/package.json">
+    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/app/hello.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.23923445" vertical-offset="225" max-vertical-offset="725">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state vertical-scroll-proportion="-6.4814816" vertical-offset="600" max-vertical-offset="1250">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/sea-modules/examples/hello/1.0.0/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43956044" vertical-offset="0" max-vertical-offset="500">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.050813008" vertical-offset="0" max-vertical-offset="492">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mygit/Gruntfile.js">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/.build/first/dist/main-debug.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15991472" vertical-offset="75" max-vertical-offset="3625">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.3869969" vertical-offset="0" max-vertical-offset="600">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/.build/static/util/util.js">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/first/dist/main.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/express/nodejs-demo/node_modules/mongoose/website.js">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/first/dist/main-debug.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16853933" vertical-offset="0" max-vertical-offset="1950">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="11" />
+        <state vertical-scroll-proportion="-0.9287926" vertical-offset="450" max-vertical-offset="174375">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/static/first/main-debug.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="174400">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="775">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/.build/util/logInfo-debug.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59726965" vertical-offset="0" max-vertical-offset="500">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/.build/util/logInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="500">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/first/dist/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="173199" max-vertical-offset="174400">
+          <caret line="6932" column="61" selection-start-line="6932" selection-start-column="61" selection-end-line="6932" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/util/util.js">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/.build/bootstrap/assets/javascripts/bootstrap/dropdown.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59912854" vertical-offset="0" max-vertical-offset="600">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2950">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/static/first/main.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/util/common.scss">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/static/first/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7371007" vertical-offset="0" max-vertical-offset="950">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="174400">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/util/logInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3828" max-vertical-offset="5800">
+          <caret line="158" column="33" selection-start-line="158" selection-start-column="33" selection-end-line="158" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/_grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="2250">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="3200">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="893" max-vertical-offset="1450">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.37020317" vertical-offset="564" max-vertical-offset="1075">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.21509434" vertical-offset="561" max-vertical-offset="1150">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/static/util/util.js">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="500">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.2762431" vertical-offset="0" max-vertical-offset="1125">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/.build/static/first/src/main.js">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/_close.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44843048" vertical-offset="0" max-vertical-offset="575">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.13812155" vertical-offset="0" max-vertical-offset="1025">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/static/first/src/main.min.css">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/_buttons.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="446">
-          <caret line="0" column="43" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.68490565" vertical-offset="3062" max-vertical-offset="4150">
+          <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/index.html">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_size.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6944444" vertical-offset="300" max-vertical-offset="800">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.22045855" vertical-offset="0" max-vertical-offset="567">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/seajs-test/examples/app/hello.html">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_table-row.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5966587" vertical-offset="375" max-vertical-offset="1250">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.35273367" vertical-offset="0" max-vertical-offset="850">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.css">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/static/first/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="136450" max-vertical-offset="136900">
-          <caret line="5466" column="8" selection-start-line="5466" selection-start-column="8" selection-end-line="5466" selection-end-column="8" />
-          <folding>
-            <marker date="1415957508863" expanded="true" signature="145592:145617" placeholder="{...}" />
-            <marker date="1415957508863" expanded="true" signature="145627:145652" placeholder="{...}" />
-            <marker date="1415957508863" expanded="true" signature="145685:145687" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/util/imports/variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.96153843" vertical-offset="0" max-vertical-offset="200">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="581">
+          <caret line="0" column="19583" selection-start-line="0" selection-start-column="19583" selection-end-line="0" selection-end-column="19583" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.scss">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9230769" vertical-offset="0" max-vertical-offset="550">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/javascripts/bootstrap/dropdown.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3534" max-vertical-offset="4225">
-          <caret line="157" column="0" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/javascripts/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16816144" vertical-offset="150" max-vertical-offset="56650">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="2675">
-          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="6075" max-vertical-offset="135775">
+          <caret line="253" column="17" selection-start-line="253" selection-start-column="17" selection-end-line="253" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/html/hellowWord.hmlt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.962963" vertical-offset="531" max-vertical-offset="1300">
-          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        <state vertical-scroll-proportion="-3.7037036" vertical-offset="1450" max-vertical-offset="2150">
+          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/static/first/src/main.js">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_center-block.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="975">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-          <folding>
-            <element signature="e#981#1022#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-6.4814816" vertical-offset="0" max-vertical-offset="325">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/static/first/src/main.js">
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_hide-text.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3812636" vertical-offset="0" max-vertical-offset="800">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="675">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_list-group.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.259259" vertical-offset="0" max-vertical-offset="925">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_background-variant.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="546">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_border-radius.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="600">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_clearfix.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.703704" vertical-offset="181" max-vertical-offset="700">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_gradients.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="13.888889" vertical-offset="375" max-vertical-offset="1600">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_image.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.7777777" vertical-offset="300" max-vertical-offset="975">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/_popovers.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15560167" vertical-offset="900" max-vertical-offset="3500">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/_carousel.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6825">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/_code.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.333333" vertical-offset="225" max-vertical-offset="1875">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/mixins/_alerts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6296296" vertical-offset="0" max-vertical-offset="500">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/_bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.9259259" vertical-offset="0" max-vertical-offset="1400">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sea-demo-1/spm_modules/bootstrap/assets/stylesheets/bootstrap/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9937758" vertical-offset="2175" max-vertical-offset="21750">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding />
         </state>
       </provider>

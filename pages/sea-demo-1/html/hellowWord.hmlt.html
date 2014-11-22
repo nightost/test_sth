@@ -3,16 +3,43 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>helloWorld</title>
+    <meta name="viewport" content="width=device-width"/>
     <script src="../spm_modules/seajs/2.3.0/dist/sea.js"></script>
-    <link rel="stylesheet" href="../spm_modules/static/first/src/main.min.css"/>
+    <link rel="stylesheet" href="../spm_modules/static/first/main.css"/>
+    <style>
+
+        h4 {
+            margin-top: 25px;
+        }
+        .row {
+            margin-bottom: 20px;
+        }
+        .row .row {
+            margin-top: 10px;
+            margin-bottom: 0;
+        }
+        [class*="col-"] {
+            padding-top: 15px;
+            padding-bottom: 15px;
+            background-color: #eee;
+            background-color: rgba(86,61,124,.15);
+            border: 1px solid #ddd;
+            border: 1px solid rgba(86,61,124,.2);
+        }
+
+        hr {
+            margin-top: 40px;
+            margin-bottom: 40px;
+        }
+    </style>
 </head>
 <body>
-    <div class="robot">
-        <input type="button" value="hello" class="btn btn-primary"/>
-        <input type="button" value="go to hell" class="btn btn-success"/>
-        <input type="button" value="goodbye" class="btn btn-info"/>
+    <div class="robot" style="margin: 20px;">
+        <button type="button" value="hello" class="btn btn-primary btn-lg">hello</button>
+        <button type="button" value="go to hell" class="btn btn-success btn-sm">go to hell</button>
+        <button type="button" value="" class="btn btn-info btn-xs">goodbye</button>
     </div>
-    <div class="dropdown">
+    <div class="dropdown" style="margin: 20px;">
         <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
             Dropdown
             <span class="caret"></span>
@@ -24,23 +51,30 @@
             <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Separated link</a></li>
         </ul>
     </div>
+    <div class="container-fluid">
+        <!-- Stack the columns on mobile by making one full-width and the other half-width -->
+        <div class="row">
+            <div class="col-sm-6 col-md-12 col-lg-1">.col-xs-12 .col-md-8</div>
+            <div class="col-sm-6 col-md-4" col-lg-3">.col-xs-6 .col-md-4</div>
+        </div>
+    </div>
     <script>
         seajs.config({
             base: "../spm_modules/",
             alias:{
-                "jquery":"jquery/2.1.1/jquery.js#",
+                "jquery":"jquery/2.1.1/jquery",
                 "sea-debug":"seaja/2.3.0/dist/sea-debug.js",
-                "bootstrap-drapdown":"bootstrap/assets/javascripts/bootstrap/dropdown.js"
+                "bootstrap-drapdown":"bootstrap/assets/javascripts/bootstrap/dropdown.js",
+                "logInfo":"util/logInfo"
             },
             debug:true
         });
 
-        if(location.href.indexOf("?deve")){
-//            seajs.use("../static/first/src/main");
-            seajs.use("static/first/src/main");
+        if(location.href.indexOf("?deve")!=-1){
+            seajs.use("static/first/main-debug");
         }
         else{
-//            seajs.use("../output/first/src/main");
+            seajs.use("static/first/main");
         }
     </script>
 </body>

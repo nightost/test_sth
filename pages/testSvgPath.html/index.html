@@ -1,0 +1,124 @@
+<!-- M = moveto
+L = lineto
+H = horizontal lineto
+V = vertical lineto
+C = curveto
+S = smooth curveto
+Q = quadratic Belzier curve
+T = smooth quadratic Belzier curveto
+A = elliptical Arc
+Z = closepath -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>test svg path</title>
+</head>
+<body>
+	<svg id="svg" width="400" height="400" version="1.1"
+xmlns="http://www.w3.org/2000/svg" style="border:1px solid lightblue;"></svg>
+<script type="text/javascript">
+	window.onload=function(){
+		var _changePath=changePath();
+	}
+	function changePath(data,options){
+		var svgDom=document.getElementById("svg");
+		
+		var pathDom=document.createElementNS('http://www.w3.org/2000/svg', 'path');
+		svgDom.appendChild(pathDom);
+		pathDom.setAttribute("stroke","#000");
+		pathDom.setAttribute("strokeWidth","1px");
+		pathDom.setAttribute("fill","rgba(222,230,234,1)");
+
+		function init(){
+			addEvents();
+		}
+
+		init();
+
+		var cargs={
+			M:"",
+			L:"",
+			H:"",
+			V:"",
+			C:"",
+			S:"",
+			Q:"",
+			T:"",
+			A:"",
+		}
+
+		/*var cmd=[
+		  'M', //startX, startY,Move pointer
+          'A', //doughnutRadius, doughnutRadius, 0, largeArc, 1, endX, endY,//Draw outer arc path
+          'L', //startX2, startY2,//Draw line path(this line connects outer and innner arc paths)
+          'A', //cutoutRadius, cutoutRadius, 0, largeArc, 0, endX2, endY2,//Draw inner arc path
+          'Z'//Close path
+		];*/
+		var settings={
+		
+		};
+
+		function addEvents(){
+			var _input=document.getElementsByTagName("input");
+			var _len=_input.length;
+			for(var i=0;i<_len;i++){
+				(function(j){
+					var _this=_input[j];
+					var _name=_this.getAttribute("name");
+					_this.addEventListener("change",function(){
+					cargs[_name]=_this.value;
+					updatePath(dealData());
+				},false);
+				})(i);
+			}
+		}
+
+		/*function getAllData(){
+			var _input=document.getElementsByTagName("input");
+			var _len=_input.length;
+			for(var i=0;i<_len;i++){
+				(function(j){
+					var _this=_input[j];
+					var _name=_this.getAttribute("name");
+					_this.addEventListener("change",function(){
+					cargs[_name]=_this.value;
+					updatePath(dealData());
+				},false);
+				})(i);
+			}
+		}*/
+
+
+		function dealData(){
+			var _dStr="";
+			for(var i in cargs){
+				if(cargs[i]!=""){
+					// var op=_dStr==""?"":" ";
+					var op=" ";
+					_dStr=_dStr+i+op+cargs[i];
+				}
+			}
+			return _dStr;
+		}
+
+		function updatePath(str){
+			pathDom.setAttribute("d",str);
+		}
+	}
+
+	
+</script>
+<form action="" style="float:left">
+	<p><label for="">M</label><input name="M" type="text" /></p>
+	<p><label for="">L</label><input name="L" type="text" /></p>
+	<p><label for="">H</label><input name="H" type="text" /></p>
+	<p><label for="">V</label><input name="V" type="text" /></p>
+	<p><label for="">C</label><input name="C" type="text" /></p>
+	<p><label for="">S</label><input name="S" type="text" /></p>
+	<p><label for="">Q</label><input name="Q" type="text" /></p>
+	<p><label for="">T</label><input name="T" type="text" /></p>
+	<p><label for="">A</label><input name="A" type="text" /></p>
+</form>
+</body>
+</html>
